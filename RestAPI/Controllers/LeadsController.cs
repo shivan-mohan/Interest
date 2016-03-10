@@ -13,6 +13,7 @@ namespace RestAPI
 
         public LeadsController()
         {
+            ;
         }
 
         [Scope("restapi", "read")]
